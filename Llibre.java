@@ -1,6 +1,6 @@
 public class Llibre {
     
-    // ATRIBUTS 
+    // ATRIBUT
     private String titol;
     private String autor;
     private boolean prestat;
